@@ -1,4 +1,4 @@
-# Muito prazer, sou a Thamis! ❤️
+# Olá, sou o Lucas!
 
 QA com foco em testes **funcionais, automatizados e exploratórios**.  
 Tenho mais de 3 anos de **experiência** na garantia de qualidade de software,  
@@ -22,7 +22,7 @@ Nesse tempo atuando, adquiri uma visão voltada para **detalhes, usabilidade e e
 ## ⚙️ Tecnologias e Ferramentas  
 
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![AzureDevOps](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-0052CC?style=flat&logo=jira&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-2496ED?style=flat&logo=azure-devops&logoColor=white)
 ![Kanban](https://img.shields.io/badge/-Kanban-2496ED?style=flat&logo=trello&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
