@@ -22,7 +22,7 @@ Nesse tempo atuando, adquiri uma visão voltada para **detalhes, usabilidade e e
 ## ⚙️ Tecnologias e Ferramentas  
 
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-2496ED?style=flat&logo=azure-devops&logoColor=white)
 ![Kanban](https://img.shields.io/badge/-Kanban-2496ED?style=flat&logo=trello&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
