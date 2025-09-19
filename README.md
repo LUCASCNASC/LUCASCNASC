@@ -76,7 +76,7 @@ Sou apaixonado por **qualidade de software** e inovação! Meu foco é criar exp
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/LUCASCNASC)
 
 Se quiser bater um papo sobre QA, automação, DevOps ou carreira, é só chamar!  
-Ou, se preferir, me manda um “oi” no WhatsApp: (44) 98833-5414
+Ou, se preferir, [me chama no WhatsApp!](https://wa.me/5544988335414)
 
 ---
 
